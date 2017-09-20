@@ -1,2 +1,2 @@
 # kandori
-<i><u><small>murdere</small></u></i>
+<i><u>murdere</i></u>
