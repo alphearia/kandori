@@ -9,3 +9,6 @@ Well we do have <i>some</i> characters planned. A little.
 
 https://www.renpy.org/doc/html/quickstart.html
 This should help us with the coding
+
+## Music Documentation
+http://beastie.cs.ua.edu/songlib/
