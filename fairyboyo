@@ -10,7 +10,9 @@
 
 “It's not easy, you know? Being a fairy without wings.”
 
-“The other fairies...”
+“The other fairies don't accept you as one of theirs anymore.”
+
+“They'll laugh at you and mock you.”
 
 He paused a moment and let out a short breathy laugh.
 
@@ -18,29 +20,16 @@ He paused a moment and let out a short breathy laugh.
 
 “I guess it sounds conceited now that I think about it.”
 
-“To be a fairy without wings, is to be a fairy no more.”
-
-“Or at least... that's what they told me.”
-
-“I can't deny it. I won't deny it. To be a fairy is to have wings. Our wings make us freedom.”
-
-“They distinguish us from the rest...”
-
 “I'm a fairy no longer. I look like one of you boring humans now. But I'm not even that either.”
 
 “...I'm not anything. Not any longer”
-
-
-MC – So, how did you lose them?
-
-TBD
 
 -----------------------------------
 choice (not a defining choice, should be a way to allow the player to choose each option so they can learn more about him)
 
 [ask about fairy society]
 [_____]
-[_____]
+[how did you lose your wings]
 [done]
 ----------------------------
 
@@ -48,7 +37,7 @@ choice (not a defining choice, should be a way to allow the player to choose eac
 
 I've grown up with stories of fairy tricksters and magical kingdoms. Everything full of laughter and mirth.
 
-Was all that really... a lie?
+Were they all just that? Stories?
 
 MC – Are the fae really so bad?
 MC – I've always heard so many stories about them. But nothing much of their cruelty.
@@ -57,27 +46,17 @@ He looked at me a moment. Baffled, almost. As if he couldn't believe what just c
 
 I stayed silent and waited patiently for him to continue.
 
-“They're worse. They're far worse than you could ever even dream.”
+“Are you not familiar with folklore? They all describe ways of keeping fairies at a distance. That alone should tell you what they're like.”
 
-“Nowadays all you see in media is about their playful natures and helpfulness. Prone to pranks, but still generally kind.”
+MC – I know that they're pranksters
 
-“Older humans knew better. They knew it was best to avoid them.”
 
-“Fairies are cruel. Very cruel.”
+[how did you lose your wings]
 
-“The very second I lost my wings, I was cast out from society.”
+MC – What about you? How did you lose your wings?
 
-“Like I said, to be a fairy without wings is to be a fairy no longer.”
+[FN] opened his mouth to speak, but no words came out.
 
-“Wings are a sort of a status symbol and a thing of beauty. Whereas you humans take pride in your hair, they take pride in their wings.”
+MC – [FN], you don't have to talk about it if you don't want to.
 
-“It's also a form of identification. Every wing pattern is different. Like your fingerprints.”
-
-MC – So without wings...
-
-“Exactly. I have no identity.”
-
-“The worst punishment the Court can give a fairy is the removal of their wings.”
-
-“It's a painful procedure. Both physically and mentally.”
-
+“I'd rather not. Is there anything else you want to ask me?”
