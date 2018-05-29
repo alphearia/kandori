@@ -1,37 +1,38 @@
-“My... my wings?”
+"My wings? The fuck do you care about those for?"
 
-“Right. Yeah.”
-
-“I guess you would be curious about that at some point...”
-
-“I was expecting this.”
+“I mean I guess it's kinda weird. I'm like a fairy and shit. Usually fairies have that sort of thing.”
 
 [fairy name] lifted a hand to his shoulder.
 
-“It's not easy, you know? Being a fairy without wings.”
-
-“The other fairies don't accept you as one of theirs anymore.”
-
-“They'll laugh at you and mock you.”
-
-He paused a moment and let out a short breathy laugh.
-
-“Our wings are our pride. Our freedom. They distinguish us from the rest.”
-
-“I guess it sounds conceited now that I think about it.”
-
-“I'm a fairy no longer. I look like one of you boring humans now. But I'm not even that either.”
-
-“...I'm not anything. Not any longer”
+“So, like, what do you wanna know?”
 
 -----------------------------------
 choice (not a defining choice, should be a way to allow the player to choose each option so they can learn more about him)
 
+[ask about how fairies react to not having wings]
 [ask about fairy society]
 [_____]
 [how did you lose your wings]
 [done]
 ----------------------------
+
+[ask about how fairies react to not having wings]
+
+MC- So what do the other fairies think about someone who doesn't have wings?
+
+"They're all little shits."
+
+I paused and waited for him to continue.
+
+MC- ...
+
+"..."
+
+MC- ...That's it?
+
+"How descriptive do you want me to get? They laugh? Call names? Point and mock?"
+
+"They're little shits like I said."
 
 [ask about fairy society]
 
